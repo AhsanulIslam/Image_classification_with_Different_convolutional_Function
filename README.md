@@ -1,1 +1,8 @@
 # Image_classification_with_Different_convolutional_Function
+
+Maxpool
+Sgimoid
+Tanh
+Relu
+LeakyRelu
+padding
